@@ -21,7 +21,7 @@
 <h3 align="center">Weather App</h3>
 
   <p align="center">
-    A simple python program that gets the current weather 
+    My first simple python program that i made that gets the weather from a location<br>I made this on 1th febraury 2020
     <br />
     <br />
     <a href="https://github.com/Th1b0/Python-Weather-App/issues">Report Bug</a>
